@@ -1,4 +1,4 @@
-### Hi there I'm Loy [ZHE][website] 👋👋
+### Hi there I'm [Meng Luo][website] 👋👋
 
 <!--
 **czheluo/czheluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 ## I'm a Manager and Tech Lead !
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on scRNA
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-
-[<img src="https://now-playing-simonzhe.vercel.app/api/spotify-playing" alt="Loy Spotify Playing" width="350" />](https://open.spotify.com/track/4FFB0Tp6sR4pvoguhCZ33O?si=-JJ8n8uoSRqHmjbEVn-DnA)
+<!--
+[<img src="https://now-playing-simonzhe.vercel.app/api/spotify-playing" alt="Loy Spotify Playing" width="350" />](https://open.spotify.com/track/4FFB0Tp6sR4pvoguhCZ33O?si=-JJ8n8uoSRqHmjbEVn-DnA)-->
+<iframe src="https://open.spotify.com/embed/track/4FFB0Tp6sR4pvoguhCZ33O" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Connect with me:
 
