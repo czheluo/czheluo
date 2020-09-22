@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 <!--
-[<img src="https://now-playing-simonzhe.vercel.app/api/spotify-playing" alt="Loy Spotify Playing" width="350" />](https://open.spotify.com/track/4FFB0Tp6sR4pvoguhCZ33O?si=-JJ8n8uoSRqHmjbEVn-DnA)-->
+[<img src="https://now-playing-simonzhe.vercel.app/api/spotify-playing" alt="Loy Spotify Playing" width="350" />](https://open.spotify.com/track/4FFB0Tp6sR4pvoguhCZ33O?si=-JJ8n8uoSRqHmjbEVn-DnA)
+-->
+
 <iframe src="https://open.spotify.com/embed/track/4FFB0Tp6sR4pvoguhCZ33O" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Connect with me:
