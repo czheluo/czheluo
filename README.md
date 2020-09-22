@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <iframe src="https://open.spotify.com/embed/track/4FFB0Tp6sR4pvoguhCZ33O" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">
 </iframe>
 -->
+
 ## Social media
 
 ![GitHub followers](https://img.shields.io/github/followers/czheluo?style=social)
@@ -68,7 +69,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details-->
+</details>
 
 <!--
 <details>
@@ -77,6 +78,7 @@ Here are some ideas to get you started:
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 </details>
 -->
+
 
 ## Technologies Used
 
