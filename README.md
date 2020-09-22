@@ -18,84 +18,93 @@ Here are some ideas to get you started:
 
 ## I'm a Manager and Tech Lead !
 
-- 🔭 I’m currently working on scRNA
+- 🔭 I’m currently working on scRNAseq
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Spotify Playing 🎧
+
 <!--
 [<img src="https://now-playing-simonzhe.vercel.app/api/spotify-playing" alt="Loy Spotify Playing" width="350" />](https://open.spotify.com/track/4FFB0Tp6sR4pvoguhCZ33O?si=-JJ8n8uoSRqHmjbEVn-DnA)
 -->
 
-<iframe src="https://open.spotify.com/embed/track/4FFB0Tp6sR4pvoguhCZ33O" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<!--
+<iframe src="https://open.spotify.com/embed/track/4FFB0Tp6sR4pvoguhCZ33O" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">
+</iframe>
+-->
+## Social media
 
-### Connect with me:
+![GitHub followers](https://img.shields.io/github/followers/czheluo?style=social)
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+![GitHub Org's stars](https://img.shields.io/github/stars/czheluo?style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/czheluo?label=Follow&style=social)
+
+
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-
-
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [How to Create a VS Code Extension Pack | Top Extensions | Download SuperHero Extension Pack Now!!](https://www.youtube.com/watch?v=DvNXEBxO3YQ)
-- [How to Create a Custom VS Code Theme (2020) | Step-by-Step | Debut of codeSTACKr Dark Theme](https://www.youtube.com/watch?v=QCqWzb-9Sy8)
-- [FREE Icons! How to use Bootstrap Icons v1.0.0 | Bootstrap 5 (2020)](https://www.youtube.com/watch?v=DPnJldwv22o)
-- [0 to 70K SUBSCRIBERS in 1 YEAR | YouTube 2020: The strategies that helped me to grow on YouTube](https://www.youtube.com/watch?v=oNGZ7h5LR-o)
-- [How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](hhttps://czheluo.github.io/)
-
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [ISR For GWAS](https://czheluo.github.io/bmd_man/bmd_qq/ISR-For-GWAS/)
+  
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://czheluo.github.io/)
+➡️ [more blog posts...](https://czheluo.github.io/post/)
 
 ---
-
+<!--
 <details>
   <summary>:zap: Recent Github Activity</summary>
-  
+-->
+
 <!--START_SECTION:activity-->
+<!--
 1. ❗️ Closed issue [#1](https://github.com//codeSTACKr/codestackr-vscode-theme/issues/1) in [codeSTACKr/codestackr-vscode-theme](https://github.com//codeSTACKr/codestackr-vscode-theme)
 2. 🎉 Merged PR [#2](https://github.com//codeSTACKr/codestackr-vscode-theme/pull/2) in [codeSTACKr/codestackr-vscode-theme](https://github.com//codeSTACKr/codestackr-vscode-theme)
-3. 🗣 Commented on [#1](https://github.com//codeSTACKr/codestackr-vscode-theme/issues/1) in [codeSTACKr/codestackr-vscode-theme](https://github.com//codeSTACKr/codestackr-vscode-theme)
-4. 💪 Opened PR [#6](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web)
-5. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
-
-</details>
-
+<!--
+</details-->
+<!--
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
 </details>
+-->
 
-[website]: https://codeSTACKr.com
+## Technologies Used
+
+<!-- badges: start -->
+![](https://img.shields.io/badge/perl%20-%234285F4.svg?&logo=perl&logoColor=white)
+![](https://img.shields.io/badge/matlab%20-%234285F4.svg?&logo=matlab&logoColor=green)
+![](https://img.shields.io/badge/SAS%20-%234285F4.svg?&logo=matlab&logoColor=black)
+![](https://img.shields.io/badge/r-%23276DC3.svg?&logo=r&logoColor=green)
+![](https://img.shields.io/badge/python%20-%2314354C.svg?&logo=python&logoColor=white)
+![](https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/git%20-%23F05033.svg?&logo=git&logoColor=white)
+![](https://img.shields.io/badge/github%20-%23121011.svg?&logo=github&logoColor=white)
+
+<!--![](https://img.shields.io/badge/docker%20-%230db7ed.svg?&logo=docker&logoColor=white)-->
+<!-- badges: end -->
+
+## Basic Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=czheluo&count_private=true&show_icons=true" alt="GitHub stats" />
+</a> <a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=czheluo&layout=compact" alt= "Top languages" />
+</a>
+
+
+[website]: https://czheluo.github.io/
 [twitter]: https://twitter.com/czheluo
 [instagram]: https://instagram.com/czheluo
 [linkedin]: https://linkedin.com/in/czheluo
