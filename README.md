@@ -60,21 +60,15 @@ Here are some ideas to get you started:
 
 ➡️ [more blog posts...](https://czheluo.github.io/post/)
 
-<!--
-- [ISR For GWAS](https://czheluo.github.io/bmd_man/bmd_qq/ISR-For-GWAS/)
--->
-
 ---
-<!--
+
 <details>
-  <summary>:zap: Recent Github Activity</summary>
--->
+  <summary>Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-<!--
-1. ❗️ Closed issue [#1](https://github.com//codeSTACKr/codestackr-vscode-theme/issues/1) in [codeSTACKr/codestackr-vscode-theme](https://github.com//codeSTACKr/codestackr-vscode-theme)
-2. 🎉 Merged PR [#2](https://github.com//codeSTACKr/codestackr-vscode-theme/pull/2) in [codeSTACKr/codestackr-vscode-theme](https://github.com//codeSTACKr/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
+
+
 <!--
 </details-->
 <!--
