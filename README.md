@@ -93,12 +93,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white)
-![](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/MATLAB%20-%2314354C.svg?&style=for-the-badge&logo=MATLAB&logoColor=white)
 ![](https://img.shields.io/badge/markdown%20-%2314354C.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/git-%23100000.svg?&style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white)
 <!-- badges: end -->
 
 
