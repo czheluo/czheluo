@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on ...
+[![Anurag's github stats](https://github-readme-stats.vercel.app/apiczheluo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/apiczheluo=anuraghazra&count_private=true)
+
+
