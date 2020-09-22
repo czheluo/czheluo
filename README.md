@@ -25,10 +25,9 @@ Here are some ideas to get you started:
 
 <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem-git-master.czheluo.vercel.app/api/spotify)](https://open.spotify.com/user/simonzhe?si=iM3yb8kwTLC_a5_5ywHbgQ)
+&nbsp; <br> [![Spotify](https://czheluo-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/simonzhe?si=iM3yb8kwTLC_a5_5ywHbgQ)
 
-  </td>
-  <td width="50%">
+</td>
 
 <!--
 [<img src="https://now-playing-simonzhe.vercel.app/api/spotify-playing" alt="Loy Spotify Playing" width="350" />](https://open.spotify.com/track/4FFB0Tp6sR4pvoguhCZ33O?si=-JJ8n8uoSRqHmjbEVn-DnA)
