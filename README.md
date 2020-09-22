@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 
 <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem-liard.vercel.app/api/spotify)](https://open.spotify.com/user/simonzhe?si=iM3yb8kwTLC_a5_5ywHbgQ)
+&nbsp; <br> [![Spotify](https://novatorem-git-master.czheluo.vercel.app/api/spotify)](https://open.spotify.com/user/simonzhe?si=iM3yb8kwTLC_a5_5ywHbgQ)
 
   </td>
   <td width="50%">
-
 
 <!--
 [<img src="https://now-playing-simonzhe.vercel.app/api/spotify-playing" alt="Loy Spotify Playing" width="350" />](https://open.spotify.com/track/4FFB0Tp6sR4pvoguhCZ33O?si=-JJ8n8uoSRqHmjbEVn-DnA)
@@ -91,17 +90,17 @@ Here are some ideas to get you started:
 ## Technologies Used
 
 <!-- badges: start -->
-![](https://img.shields.io/badge/perl%20-%234285F4.svg?&logo=perl&logoColor=white)
-![](https://img.shields.io/badge/matlab%20-%234285F4.svg?&logo=matlab&logoColor=green)
-![](https://img.shields.io/badge/SAS%20-%234285F4.svg?&logo=matlab&logoColor=black)
-![](https://img.shields.io/badge/r-%23276DC3.svg?&logo=r&logoColor=green)
-![](https://img.shields.io/badge/python%20-%2314354C.svg?&logo=python&logoColor=white)
-![](https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/git%20-%23F05033.svg?&logo=git&logoColor=white)
-![](https://img.shields.io/badge/github%20-%23121011.svg?&logo=github&logoColor=white)
-
-<!--![](https://img.shields.io/badge/docker%20-%230db7ed.svg?&logo=docker&logoColor=white)-->
+![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
+![](https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white)
+![](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/MATLAB%20-%2314354C.svg?&style=for-the-badge&logo=MATLAB&logoColor=white)
+![](https://img.shields.io/badge/markdown%20-%2314354C.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/git-%23100000.svg?&style=for-the-badge&logo=git&logoColor=white)
 <!-- badges: end -->
+
 
 ## Basic Stats
 
