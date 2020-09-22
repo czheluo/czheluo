@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem.czheluo.vercel.app/api/spotify)](https://open.spotify.com/user/simonzhe?si=iM3yb8kwTLC_a5_5ywHbgQ)
+&nbsp; <br> [![Spotify](https://novatorem-liard.vercel.app/api/spotify)](https://open.spotify.com/user/simonzhe?si=iM3yb8kwTLC_a5_5ywHbgQ)
 
   </td>
   <td width="50%">
