@@ -53,6 +53,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Locuszoom Pipeline Visualization Of Gwas (eqtl, ewas twas and mwas) For Any With Refference Genome Species](https://mengluocv.me/blog/2019/06/27/LocusZoom-Pipeline-visualization-of-GWAS-(eQTL,-EWAS-TWAS-and-MWAS)-For-any-with-refference-genome-species/)
+- [Iterative Screen Regression Models For Genetic Mapping Studies Of Epistasis Of Quantitative Traits](https://mengluocv.me/blog/2018/06/02/Iterative-Screen-Regression-Models-for-Genetic-Mapping-Studies-of-Epistasis-of-Quantitative-Traits/)
+- [Genetic Prediction Of Complex Traits With Iterative Screen Regression Models](https://mengluocv.me/blog/2018/05/22/Genetic-Prediction-of-Complex-Traits-with-Iterative-Screen-Regression-Models/)
+- [An Efficient Iterative Screen Regression Model For Genome Wide Association Study In Structured Populations](https://mengluocv.me/blog/2018/05/12/An-Efficient-Iterative-Screen-Regression-model-For-Genome-wide-Association-Study-in-Structured-Populations/)
+- [ISR For GWAS](https://czheluo.github.io//bmd_man/bmd_qq/ISR-For-GWAS/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
