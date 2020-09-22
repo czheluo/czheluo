@@ -53,11 +53,13 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ISR For GWAS](https://czheluo.github.io/bmd_man/bmd_qq/ISR-For-GWAS/)
-  
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ➡️ [more blog posts...](https://czheluo.github.io/post/)
+<!--
+- [ISR For GWAS](https://czheluo.github.io/bmd_man/bmd_qq/ISR-For-GWAS/)
+-->
 
 ---
 <!--
