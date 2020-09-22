@@ -1,4 +1,4 @@
-### Hi there I'm Loy - ZHE [czheluo][website] 👋👋
+### Hi there I'm Loy [ZHE][website] 👋👋
 
 <!--
 **czheluo/czheluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
