@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com//czheluo/Perl-Script/issues/1) in [czheluo/Perl-Script](https://github.com//czheluo/Perl-Script)
 <!--END_SECTION:activity-->
 
 
