@@ -68,9 +68,10 @@ Here are some ideas to get you started:
 ➡️ [more blog posts...](https://czheluo.github.io/post/)
 
 ---
-## :zap: Recent Github Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ---
