@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## I'm a Manager and Tech Lead !
 
-- 🔭 I’m currently working on scRNAseq
+- 🔭 I’m currently working on developing machine learning and applied mathematical techniques for extracting structure and patterns in high-dimensional and high-throughput biomedical data
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
