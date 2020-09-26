@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//czheluo/PRtest/pull/1) in [czheluo/PRtest](https://github.com//czheluo/PRtest)
+1. 🎉 Merged PR [#1](https://github.com/czheluo/PRtest/pull/1) in [czheluo/PRtest](https://github.com/czheluo/PRtest)
 <!--END_SECTION:activity-->
 
 
