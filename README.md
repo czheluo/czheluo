@@ -58,8 +58,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LocusZoom Pipeline visualization of GWAS (eQTL, EWAS TWAS and MWAS) For any with refference genome species](https://czheluo.github.io//LocusZoom-Pipeline-visualization-of-GWAS-(eQTL,-EWAS-TWAS-and-MWAS)-For-any-with-refference-genome-species/)
+- [Iterative Screen Regression Models for Genetic Mapping Studies of Epistasis of Quantitative Traits](https://czheluo.github.io//Iterative-Screen-Regression-Models-for-Genetic-Mapping-Studies-of-Epistasis-of-Quantitative-Traits/)
+- [Genetic Prediction of Complex Traits with Iterative Screen Regression Models](https://czheluo.github.io//Genetic-Prediction-of-Complex-Traits-with-Iterative-Screen-Regression-Models/)
+- [An Efficient Iterative Screen Regression model For Genome wide Association Study in Structured-Populations](https://czheluo.github.io//bmd_man/bmd_qq/An-Efficient-Iterative-Screen-Regression-model-For-Genome-wide-Association-Study-in-Structured-Populations/)
 - [ISR For GWAS](https://czheluo.github.io//bmd_man/bmd_qq/ISR-For-GWAS/)
-- [Optimization by a new improved contraction expansion algorithm and its application](https://czheluo.github.io//Optimization-by-a-new-improved-contraction-expansion-algorithm-and-its-application/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://czheluo.github.io/post/)
