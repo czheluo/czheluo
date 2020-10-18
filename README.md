@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Teaching Bioinformatics and R for dataviz course](https://czheluo.github.io//Teaching-Bioinformatics-and-R-for-dataViz-courses/)
 - [LocusZoom Pipeline visualization of GWAS (eQTL, EWAS TWAS and MWAS) For any with refference genome species](https://czheluo.github.io//LocusZoom-Pipeline-visualization-of-GWAS-(eQTL,-EWAS-TWAS-and-MWAS)-For-any-with-refference-genome-species/)
 - [Iterative Screen Regression Models for Genetic Mapping Studies of Epistasis of Quantitative Traits](https://czheluo.github.io//Iterative-Screen-Regression-Models-for-Genetic-Mapping-Studies-of-Epistasis-of-Quantitative-Traits/)
 - [Genetic Prediction of Complex Traits with Iterative Screen Regression Models](https://czheluo.github.io//Genetic-Prediction-of-Complex-Traits-with-Iterative-Screen-Regression-Models/)
 - [An Efficient Iterative Screen Regression model For Genome wide Association Study in Structured-Populations](https://czheluo.github.io//bmd_man/bmd_qq/An-Efficient-Iterative-Screen-Regression-model-For-Genome-wide-Association-Study-in-Structured-Populations/)
-- [ISR For GWAS](https://czheluo.github.io//bmd_man/bmd_qq/ISR-For-GWAS/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://czheluo.github.io/post/)
