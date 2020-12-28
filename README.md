@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/czheluo?style=social)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/czheluo?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/czheMEL?label=Follow&style=social)
 
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
