@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on developing machine learning and applied mathematical techniques for high-dimensional and high-throughput biomedical data,e.g. scRNAseq
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Spotify Playing 🎧
 
