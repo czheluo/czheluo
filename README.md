@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [scRNA-seq: Quality Control](https://czheluo.github.io//scRNA-seq-QC/)
 - [Teaching Bioinformatics and R for dataviz course](https://czheluo.github.io//Teaching-Bioinformatics-and-R-for-dataViz-courses/)
-- [LocusZoom Pipeline visualization of GWAS (eQTL, EWAS TWAS and MWAS) For any with refference genome species](https://czheluo.github.io//LocusZoom-Pipeline-visualization-of-GWAS-(eQTL,-EWAS-TWAS-and-MWAS)-For-any-with-refference-genome-species/)
+- [LocusZoom Pipeline visualization of GWAS &lpar;eQTL, EWAS TWAS and MWAS&rpar; For any with refference genome species](https://czheluo.github.io//LocusZoom-Pipeline-visualization-of-GWAS-(eQTL,-EWAS-TWAS-and-MWAS)-For-any-with-refference-genome-species/)
 - [Iterative Screen Regression Models for Genetic Mapping Studies of Epistasis of Quantitative Traits](https://czheluo.github.io//Iterative-Screen-Regression-Models-for-Genetic-Mapping-Studies-of-Epistasis-of-Quantitative-Traits/)
 - [Genetic Prediction of Complex Traits with Iterative Screen Regression Models](https://czheluo.github.io//Genetic-Prediction-of-Complex-Traits-with-Iterative-Screen-Regression-Models/)
 <!-- BLOG-POST-LIST:END -->
