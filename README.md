@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Supervisor and Tech Lead !
+## I'm a Lab Manager!
 
 - 🔭 I’m currently working on developing machine learning and applied mathematical techniques for high-dimensional and high-throughput biomedical data,e.g. scRNAseq
 - 🌱 I’m currently learning everything 🤣
