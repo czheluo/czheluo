@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 ## I'm a Lab Manager!
 
-- 🔭 I’m currently working on developing machine learning and applied mathematical techniques for high-dimensional and high-throughput biomedical data,e.g. scRNAseq
+- 🔭 I’m currently working on developing machine learning and applied mathematical techniques for high-dimensional and high-throughput biomedical data,e.g. scRNAseq, GWAS
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Spotify Playing 🎧
 
